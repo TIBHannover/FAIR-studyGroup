@@ -1,10 +1,9 @@
 ---
-title: Make Your First Event
-text: In order to make your first event, follow the instructions here.
-location: Your Location
+title: 1st meeting: discussion & planning
+text: Bring your research data and software problems, questions or ideas! We discuss and define the more specialised topics for the next weeks.
+location: Grunwaldhaus, ground floor meeting room, right beside the entrance
 link: https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
-date: 2077-01-01
-startTime: '20:00'
-endTime: '21:00'
-
+date: 2018-09-26
+startTime: '16:00'
+endTime: '18:00'
 ---

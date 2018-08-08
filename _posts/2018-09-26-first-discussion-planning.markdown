@@ -1,5 +1,5 @@
 ---
-title: First meeting: discussion & planning
+title: First discussion & planning meeting
 text: Bring your research data and software problems, questions or ideas so we can discuss them, and define the more specialised topics for the next weeks.
 location: Grunwaldhaus ground floor meeting room right beside the entrance
 link: https://github.com/katrinleinweber/FAIR-studyGroup/issues/1

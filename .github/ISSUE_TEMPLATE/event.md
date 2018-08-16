@@ -9,7 +9,7 @@ about: Template for suggesting/requesting events and noting topic ideas.
 #### What should/will the [learning objective(s)](http://teachtogether.tech/en/process/#s:process-objectives) be?
 
 
-#### What do participants need to know / install / bring
+#### What do participants need to know / install / bring?
 
 <!-- In order to be accepted as an event, each suggestion needs to:
 

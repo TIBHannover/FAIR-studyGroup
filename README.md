@@ -23,7 +23,7 @@ Anyone is welcome: students, university or library personell, research scientist
 [Carpentries]: https://carpentries.org/
 [FAIR Data Principles]: https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data/
 [Data]: http://www.datacarpentry.org/
-[issue list]: https://github.com/katrinleinweber/FAIR-studyGroup/issues?q=is%3Aissue+sort%3Aupdated-desc
+[issue list]: https://github.com/tibhannover/FAIR-studyGroup/issues?q=is%3Aissue+sort%3Aupdated-desc
 [Library]: https://librarycarpentry.org/
 [MSG-ReadMe]: https://github.com/mozillascience/studyGroup
 [Software]: https://software-carpentry.org/

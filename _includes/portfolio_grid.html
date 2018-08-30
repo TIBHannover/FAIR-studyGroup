@@ -6,9 +6,6 @@
                     <h2 class="section-heading">{{site.data[site.language].events}}</h2>
                     <h3 class="section-subheading text-muted">{{site.data[site.language].eventsSubheading}}</h3>
                     <p>Unless otherwise stated, all our events run from 4 to 6 pm on Wednesdays in the <strong><a href="https://www.openstreetmap.org/way/27870998">Grunwald-Haus</a></strong> (ground floor, right besides entrance; You may knock on the window ;-)</p>
-                    <h3>Languages of the events / Sprache der Veranstaltungen</h3>
-                    <p>Both English and German speakers are present at our meetings. Event suggestions in both languages are welcome, see below!</p>
-                    <p>Bei uns wird sowohl Englisch, als auch Deutsch gesprochen. Themenvorschläge sind in beiden Sprachen willkommen, siehe unten!</p>
                 </div>
             </div>
             <div class="col-lg-12">
@@ -35,6 +32,9 @@
                 {% else %}
                 <div class="row">
                       <div class="col-lg-12 text-center">
+                          <h3>Languages of the events / Sprache der Veranstaltungen</h3>
+                          <p>Both English and German speakers are present at our meetings. Event suggestions in both languages are welcome, see below!</p>
+                          <p>Bei uns wird sowohl Englisch, als auch Deutsch gesprochen. Themenvorschläge sind in beiden Sprachen willkommen, siehe unten!</p>
                           <a href="{{ site.github.issues_url }}" class="btn btn-xl eventSuggest">{{site.data[site.language].suggestEvent}}</a>
                           <a href="http://mozillascience.github.io/studyGroupHandbook/event-types.html#workalong" class="btn btn-xl eventSuggest">{{site.data[site.language].leadership}}</a>
                       </div>

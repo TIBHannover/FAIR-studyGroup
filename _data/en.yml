@@ -7,7 +7,7 @@ tellMeMore: Tell Me More
 activitiesSubheading: 'And you can, too!'
 activities:
   - title: Skill Sharing
-    description: 'Share your coding and data skills and tools with your friends and colleagues in a friendly, no-pressure environment.</p>'
+    description: 'Share your coding and data skills and tools with your students, colleagues and friends in a friendly, no-pressure environment.</p>'
     icon: fa-comment
   - title: Co-Working
     description: 'Get together on your research projects, learn from each other and share what you know.'

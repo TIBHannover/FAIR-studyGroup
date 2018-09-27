@@ -7,13 +7,13 @@ tellMeMore: Tell Me More
 activitiesSubheading: 'And you can, too!'
 activities:
   - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+    description: 'Share your coding and data skills and tools with your friends and colleagues in a friendly, no-pressure environment.</p>'
     icon: fa-comment
   - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+    description: 'Get together on your research projects, learn from each other and share what you know.'
     icon: fa-laptop
   - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+    description: 'Meet new people working and/or learning at TIB, LUH or in Hannover and find out what we can achieve by working together.' 
     icon: fa-group
 
 events: Events

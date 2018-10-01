@@ -22,7 +22,7 @@
                   {% if postyear > nowyear or postday >= nowday and postyear >= nowyear %}
                     {% assign isEvent = 1 %}
                     <li>
-                      <a class='eventTitle' href="{{ post.link }}">{{ post.title }}, {{ post.date | date: "%-d %B %Y"}}</a> 
+                      {{ post.date | date: "%-d %B %Y"}} -- <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a> 
                       <div class='eventSub'>{{ post.text }}</div>
                     </li>
                   {% endif %}
@@ -63,7 +63,7 @@
                           {% assign nowday = nowday | minus: 2 %}
                           {% if postyear < nowyear or postday < nowday and postyear == nowyear %}
                             <li>
-                              <a class='eventTitle' href="{{ post.link }}">{{ post.title }}, {{ post.date | date: "%-d %B %Y"}}</a>
+                              {{ post.date | date: "%-d %B %Y"}} -- <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a> 
                               <div class='eventSub'>{{ post.text }}</div>
                             </li>
                           {% endif %}

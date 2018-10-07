@@ -4,7 +4,7 @@ about: Template for suggesting/requesting events and noting topic ideas.
 ---
 
 <!--
-Please add a descripitive title what this event will/should be about and fill out the following details.
+Please add a descriptive title what this event will/should be about and fill out the following details.
 If it is specific to a programming language, please add its name to the title.
 If covering the same topic in different languages could fill more than 1 hour, please create one issue per language!
 -->

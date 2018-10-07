@@ -19,5 +19,5 @@ If covering the same topic in different languages could fill more than 1 hour, p
 - receive 3 or more [positive reactions](https://help.github.com/articles/about-conversations-on-github/#reacting-to-ideas-in-comments)
 - be assigned to someone who will lead the event
 
-Then, a PR can be started against the `_posts` folder to include a `YYYY-MM-DD-event-title.markdown` file to actually schedule event.
+Then, a PR can be started against the `_posts` folder to include a `YYYY-MM-DD-event-title.markdown` file to actually schedule the event.
  -->

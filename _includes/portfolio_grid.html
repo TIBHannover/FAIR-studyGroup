@@ -10,6 +10,7 @@
                     <p>Both English and German speakers are present at our meetings. Event suggestions in both languages are welcome, see below! // Bei uns wird sowohl Englisch, als auch Deutsch gesprochen. Themenvorschläge sind in beiden Sprachen willkommen, siehe unten!</p>
                 </div>
             </div>
+            <hr>
             <div class="col-lg-12">
               <!--current events-->
               <ul class='events'>
@@ -32,6 +33,7 @@
                 {% if isEvent == 0 %}
                   <a class='eventTitle' href="{{ site.github.issues_url }}">{{site.data[site.language].eventPlaceholder}}</a>
                 {% else %}
+            <hr>
                 <div class="row">
                       <div class="col-lg-12 text-center">
                         <h3 class="section-subheading text-muted">Time and location</h3>

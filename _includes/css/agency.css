@@ -855,12 +855,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    background: #CCC;
 }
 
 ::selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    background: #CCC;
 }
 
 img::selection {

@@ -35,9 +35,6 @@ a.active {
     outline: 0;
 }
 
-a {
-    color: #{{ site.color.secondary-dark }};
-}
 
 a:hover,
 a:focus,

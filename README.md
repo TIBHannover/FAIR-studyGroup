@@ -9,7 +9,7 @@ We meet every **Wednesday** at **16 to 18 o'clock** in the
 - in the context of scientific research, and
 - establish a local [Software], [Data] and [Library] [Carpentries] group.
 
-Anyone is welcome: students, university or library personell, research scientists, etc.
+Anyone is welcome: students, university or library personnel, research scientists, etc.
 
 ## Process for suggesting & announcing events
 

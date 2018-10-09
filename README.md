@@ -14,8 +14,7 @@ Anyone is welcome: students, university or library personnel, research scientist
 ## Process for suggesting & announcing events
 
 1. Search the [issue list] whether your topic was presented already.
-1. If not, or your idea is significantly different, please [create a new issue through the event template][add].
-1. The event issue will be voted upon by interested people and we'll sort it into the schedule once someone volunteers to lead it (please indicate, if you do), and it has accumulated some :+1: votes.
+1. If not, or your idea is significantly different, please [create a new issue through the event template and follow the instructions there][add].
 
 #### PS: We are using [Mozilla's Study Group template for this website. They have a `ReadMe`][MSG-ReadMe]!
 

@@ -2,5 +2,6 @@
 title: Regular expressions. What are those? What are they useful for?
 text: And how do I construct, test and use them? If you have own code with regular expressions, bring it and we'll try to find edge-cases of them matching false positives or not matching false negatives.
 link: https://github.com/tibhannover/FAIR-studyGroup/issues/5
+location: Grunwald-Haus
 date: 2018-11-21
 ---

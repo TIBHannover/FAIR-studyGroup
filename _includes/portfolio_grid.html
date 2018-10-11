@@ -67,7 +67,7 @@
                           {% if postyear < nowyear or postday < nowday and postyear == nowyear %}
                             <li>
                               <span class="date">{{ post.date | date: "%-d. %B %Y"}}</span> &mdash; <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a>
-                              <div class='eventSub'>{{ post.location }} &mdash; {{ post.text }}</div>
+                              <div class='eventSub'>{{ post.text }}</div>
                             </li>
                           {% endif %}
                         {% endfor %}

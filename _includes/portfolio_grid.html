@@ -26,7 +26,7 @@
                     {% assign isEvent = 1 %}
                     <li>
                       <span class="date">{{ post.date | date: "%-d. %B %Y"}}</span> &mdash; <a class='eventTitle' href="{{ post.link }}">{{ post.title }}</a>
-                      <div class='eventSub'>{{ post.text }}</div>
+                      <div class='eventSub'>{{ post.location }} &mdash; {{ post.text }}</div>
                     </li>
                   {% endif %}
                 {% endfor %}
@@ -37,7 +37,7 @@
                 <div class="row">
                       <div class="col-lg-12 text-center">
                         <h3 class="section-subheading text-muted">Time and location</h3>
-                          <p>Wednesdays, 16:00 to 18:00, unless otherwise stated. All our events are held in the <strong><a href="https://www.openstreetmap.org/way/27870998">Grunwald-Haus</a></strong>: north-west of TIB's TechNat building, ground floor, right besides the entrance. You may knock on the window ;-)</p>
+                          <p>Wednesdays, 16:00 to 18:00 (unless otherwise stated) in either the <strong><a href="https://www.openstreetmap.org/way/27870998">Grunwald-Haus</a></strong> (north-west of TIB's TechNat building, ground floor) or at LUH's <a href="https://www.openstreetmap.org/way/24019267">building 3109 // Schneiderberg 50</a> (room V205).</p>
                           <a href="{{ site.github.issues_url }}" class="btn btn-xl eventSuggest">{{site.data[site.language].suggestEvent}}</a>
                           <a href="http://mozillascience.github.io/studyGroupHandbook/event-types.html#workalong" class="btn btn-xl eventSuggest">{{site.data[site.language].leadership}}</a>
                       </div>

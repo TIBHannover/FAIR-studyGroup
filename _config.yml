@@ -40,7 +40,7 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 color:
   primary: f03205
   secondary: e2001a
-  secondary-dark: 58585a
+  secondary-dark: 555555
 
 # Build settings
 markdown: kramdown

@@ -1,8 +1,6 @@
 # Follow-up events to the ["FAIR Data and Software"-workshop](https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/) at [TIB, Hannover](https://www.tib.eu)
 
-We meet every **Wednesday** at **16 to 18 o'clock** in the
-[**Grunwald-Haus**, ground floor, right besides the entrance](https://www.openstreetmap.org/way/27870998)
-(you may need to knock on the window). We'll be learning from each other and teaching ourselves about:
+We'll be learning from each other and teaching ourselves about:
 
 - the [FAIR Data Principles]
 - sustainable software development

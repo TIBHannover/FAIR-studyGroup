@@ -6,8 +6,8 @@
                     <h2 class="section-heading">{{site.data[site.language].events}}</h2>
                     <h3 class="section-subheading text-muted">What to expect?</h3>
                     <p>Please click on the event titles to see more details, like learning objective(s), prerequisites, etc.</p>
-                    <h3 class="section-subheading text-muted">Languages of the events // Sprache der Veranstaltungen</h3>
-                    <p>Both English and German speakers are present at our meetings. Event suggestions in both languages are welcome, see below! // Bei uns wird sowohl Englisch, als auch Deutsch gesprochen. Themenvorschläge sind in beiden Sprachen willkommen, siehe unten!</p>
+                    <h3 class="section-subheading text-muted">Time and location</h3>
+                    <p>Wednesdays, 16:00 to 18:00 in either the <a href="https://www.openstreetmap.org/way/27870998">Grunwald-Haus</a> (north-west of TIB's TechNat building, ground floor) or at LUH's <a href="https://www.openstreetmap.org/way/24019267">building 3109 / Schneiderberg 50</a> (room V205).</p>
                 </div>
             </div>
             <hr>
@@ -33,17 +33,17 @@
                 {% if isEvent == 0 %}
                   <a class='eventTitle' href="{{ site.github.issues_url }}">{{site.data[site.language].eventPlaceholder}}</a>
                 {% else %}
-            <hr>
-                <div class="row">
-                      <div class="col-lg-12 text-center">
-                        <h3 class="section-subheading text-muted">Time and location</h3>
-                          <p>Wednesdays, 16:00 to 18:00 in either the <a href="https://www.openstreetmap.org/way/27870998">Grunwald-Haus</a> (north-west of TIB's TechNat building, ground floor) or at LUH's <a href="https://www.openstreetmap.org/way/24019267">building 3109 / Schneiderberg 50</a> (room V205).</p>
-                          <a href="{{ site.github.issues_url }}" class="btn btn-xl eventSuggest">{{site.data[site.language].suggestEvent}}</a>
-                          <a href="http://mozillascience.github.io/studyGroupHandbook/event-types.html#workalong" class="btn btn-xl eventSuggest">{{site.data[site.language].leadership}}</a>
-                      </div>
-                </div>
                 {% endif %}
               </ul>
+            <hr>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-subheading text-muted">Languages of the events // Sprache der Veranstaltungen</h3>
+                    <p>Both English and German speakers are present at our meetings. Event suggestions in both languages are welcome, see below! // Bei uns wird sowohl Englisch, als auch Deutsch gesprochen. Themenvorschläge sind in beiden Sprachen willkommen, siehe unten!</p>
+                          <a href="{{ site.github.issues_url }}" class="btn btn-xl eventSuggest">{{site.data[site.language].suggestEvent}}</a>
+                          <a href="http://mozillascience.github.io/studyGroupHandbook/event-types.html#workalong" class="btn btn-xl eventSuggest">{{site.data[site.language].leadership}}</a>
+                </div>
+            </div>
               <!--past events-->
               <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default">

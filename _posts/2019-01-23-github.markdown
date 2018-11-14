@@ -1,0 +1,6 @@
+---
+title: Comparing GitHub and GitLab
+link: https://github.com/TIBHannover/FAIR-studyGroup/issues/8
+location: Grunwald-Haus
+date: 2019-01-23
+---

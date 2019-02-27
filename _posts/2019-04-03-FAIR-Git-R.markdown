@@ -1,0 +1,7 @@
+---
+title: Git and R basics
+link: https://events.tib.eu/fair-data-software/programme/
+text: Preparation session for TIB's "FAIR Git and R" workshop
+location: Grunwald-Haus
+date: 2019-04-03
+---

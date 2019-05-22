@@ -2,5 +2,5 @@
 title: Introducing Git on the command line
 link: https://github.com/TIBHannover/FAIR-studyGroup/issues/42
 text: How to get started with the workflow for the 21st century.
-date: 2019-01-16
+date: 2019-06-19
 ---

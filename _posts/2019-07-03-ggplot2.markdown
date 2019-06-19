@@ -2,5 +2,5 @@
 title: Data visualisation in R according to the Grammar of Graphics
 text: Diagrams have layers. Like onions.
 link: https://github.com/TIBHannover/FAIR-studyGroup/issues/2
-date: 2018-12-05
+date: 2019-07-03
 ---

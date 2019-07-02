@@ -1,6 +1,6 @@
 ---
-title: Data visualisation in R according to the Grammar of Graphics
+title: Iterative data visualization with R & ggplot2
 text: Diagrams have layers. Like onions.
-link: https://github.com/TIBHannover/FAIR-studyGroup/issues/2
+link: https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
 date: 2019-07-03
 ---
